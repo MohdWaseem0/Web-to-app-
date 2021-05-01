@@ -1,7 +1,5 @@
 # web-to-app
 
-Android source code for android apk file of your website.
-
 Easy and fast way of creating android mobile app for your website.
 
 Just change the url in the  MainActivity.java to your website hostname  then you  are  good to go. 
