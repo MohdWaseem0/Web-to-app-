@@ -1,4 +1,4 @@
-# web-to-app
+# web-to-app for android
 
 Easy and fast way of creating android mobile app for your website.
 
